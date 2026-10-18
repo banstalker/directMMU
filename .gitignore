@@ -1,0 +1,14 @@
+# CAD / Slicer temp files
+*.f3d.lock
+*.step.bak
+*.3mf.bak
+*.gcode
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE / Editor files
+.vscode/
+.idea/
